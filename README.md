@@ -48,7 +48,11 @@ As a data analyst and an SQL expert, use SQL to analyse the given data and give 
 25. What is the genre-wise running total and moving average of the average movie duration?
 
 ## Code Implementation & Executive Summary
-**Refer IMDB+question.sql SQL and execution submission slides in this repository to know about insights and recommendations mentioned.**
+**Refer IMDB+question.sql SQL and execution submission slides present in this repository to know about insights and recommendations mentioned.**
 
 ## DBMS Product Used
 - **MySQL**
+
+## Contributors
+- [Ganesh Jalakam](https://github.com/GaneshJalakam)
+- [Puneet Dadich](https://github.com/Puneet192)
